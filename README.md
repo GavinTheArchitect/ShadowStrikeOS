@@ -29,19 +29,11 @@ To protect its strategic innovations and maintain a competitive edge, *ShadowStr
 
 While the full codebase remains private, curated demo videos showcase *ShadowStrikeOS* in action within ethical, controlled environments:
 
-- **Demo 1: System Hardening**  
-  See *ShadowStrikeOS* debloat a system, apply kernel patches, and enforce strict permissions in under 5 minutes.  
+- **Demo**  
+  See *ShadowStrikeOS* 
   [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo1)
 
-- **Demo 2: Threat Hunting**  
-  Witness AI-driven anomaly detection identify a simulated APT in real-time, mapping IOCs to MITRE ATT&CK.  
-  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo2)
-
-- **Demo 3: Penetration Testing**  
-  Explore how *ShadowStrikeOS* automates a full attack chain, from reconnaissance to exploitation, on a vulnerable test system.  
-  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo3)
-
-*Note*: Links are placeholders. Demo access is restricted to authorized partners.
+*Note*: This is a single video of the entire project. For more in-depth detail of the project, you need to be an authorized partner.
 
 ---
 
