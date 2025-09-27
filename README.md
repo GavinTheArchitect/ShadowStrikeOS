@@ -42,7 +42,7 @@ While the full codebase remains private, curated demo videos showcase *ShadowStr
 While the source code remains confidential, here’s a high-level overview of *ShadowStrikeOS*’s architecture:
 
 - **Base System**: Lightweight Linux kernel optimized for performance and security.
-- **AI Integration**: PyTorch-based models for vulnerability scoring and log analysis, inspired by *Shatterpoint AI*’s shatterpoint detection.
+- **AI Integration**: Gemini 2.5 Pro-based models for vulnerability scoring and log analysis, inspired by *Shatterpoint AI*’s shatterpoint detection. (Another private project which will never be released to public or demonstrated to anyone)
 - **Toolset**: Pre-installed suite including Burp Suite, Wireshark, Radare2, and custom scripts for zero-day research.
 - **Sandboxing**: Docker and BlackArch containers with Kali Linux base (currently deciding if Fedora would be a better-base) for secure execution of offensive tools.
 - **Scalability**: Supports fleet-wide deployment via macOS VMware Fusion .vmdk's
