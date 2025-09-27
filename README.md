@@ -17,7 +17,6 @@ To protect its strategic innovations and maintain a competitive edge, *ShadowStr
 *ShadowStrikeOS* is more than a Linux distro—it's a fortified platform for securing and stress-testing critical systems. Built on the principle of **proactive defense through offensive insight**, it combines industry-standard tools with AI-accelerated workflows to outmaneuver adversaries. Designed for hardening enterprise environments, hunting threats, and conducting authorized penetration testing, *ShadowStrikeOS* is a game-changer for cybersecurity professionals.
 
 ### Key Features
-- **Hardened Core**: Robust kernel protections (e.g., grsecurity/PaX, SMEP/SMAP), Secure Boot, and AppArmor/SELinux profiles to minimize attack surfaces.
 - **AI Force-Multiplication**: Machine learning for anomaly detection, vulnerability prioritization, and automated mitigation, slashing response times by up to 60%.
 - **Offensive Toolchain**: Pre-configured for penetration testing, fuzzing, and exploit development, with tools like Nmap, Metasploit, and custom AI-driven scripts.
 - **Purple Team Synergy**: Integrates red-team exploits with blue-team defenses, drawing inspiration from the *Shatterpoint AI* framework.
@@ -56,7 +55,7 @@ While the source code remains confidential, here’s a high-level overview of *S
 - **AI Integration**: PyTorch-based models for vulnerability scoring and log analysis, inspired by *Shatterpoint AI*’s shatterpoint detection.
 - **Toolset**: Pre-installed suite including Burp Suite, Wireshark, Radare2, and custom scripts for zero-day research.
 - **Sandboxing**: Docker and BlackArch containers with Kali Linux base (currently deciding if Fedora would be a better-base) for secure execution of offensive tools.
-- **Scalability**: Supports fleet-wide deployment via Ansible and Kubernetes orchestration.
+- **Scalability**: Supports fleet-wide deployment via macOS VMware Fusion .vmdk's
 
 ---
 
