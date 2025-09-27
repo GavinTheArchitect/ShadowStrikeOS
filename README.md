@@ -1,5 +1,3 @@
----
-
 # ShadowStrikeOS 🛡️
 
 **Hardened, AI-Driven Cybersecurity Operating System for Elite Defenders**
@@ -31,17 +29,17 @@ To protect its strategic innovations and maintain a competitive edge, *ShadowStr
 
 While the full codebase remains private, curated demo videos showcase *ShadowStrikeOS* in action within ethical, controlled environments:
 
-- **Demo 1: System Hardening**  
-  See *ShadowStrikeOS* debloat a system, apply kernel patches, and enforce strict permissions in under 5 minutes.  
-  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo1)
+- **Demo 1: System Hardening**  
+  See *ShadowStrikeOS* debloat a system, apply kernel patches, and enforce strict permissions in under 5 minutes.  
+  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo1)
 
-- **Demo 2: Threat Hunting**  
-  Witness AI-driven anomaly detection identify a simulated APT in real-time, mapping IOCs to MITRE ATT&CK.  
-  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo2)
+- **Demo 2: Threat Hunting**  
+  Witness AI-driven anomaly detection identify a simulated APT in real-time, mapping IOCs to MITRE ATT&CK.  
+  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo2)
 
-- **Demo 3: Penetration Testing**  
-  Explore how *ShadowStrikeOS* automates a full attack chain, from reconnaissance to exploitation, on a vulnerable test system.  
-  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo3)
+- **Demo 3: Penetration Testing**  
+  Explore how *ShadowStrikeOS* automates a full attack chain, from reconnaissance to exploitation, on a vulnerable test system.  
+  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo3)
 
 *Note*: Links are placeholders. Demo access is restricted to authorized partners.
 
@@ -77,16 +75,14 @@ While the source code remains confidential, here’s a high-level overview of *S
 
 ## 👤 Author
 
-**GavinTheArchitect**  
-- [GitHub](https://github.com/GavinTheArchitect) | [Previous Work](https://github.com/CY83R-3X71NC710N)  
-- **Credentials**: GIAC GSEC, GFACT | National Cyber Scholar (3x) | NSA Codebreaker Challenge (Top 16%) | FBI TEAM Program  
-- **Experience**: Founding Security Engineer @ Maze3 Studios | $12k Scholarships | AP Dual Honors (CS/Business)  
-- **Projects**: Creator of [*Shatterpoint AI*](https://github.com/GavinTheArchitect/shatterpoint-ai), *Event_Zero*, *Eclipse-Shield*  
+**GavinTheArchitect**  
+- [GitHub](https://github.com/GavinTheArchitect) | [Previous Work](https://github.com/CY83R-3X71NC710N)  
+- **Credentials**: GIAC GSEC, GFACT | National Cyber Scholar (3x) | NSA Codebreaker Challenge (Top 16%) | FBI TEAM Program  
+- **Experience**: Founding Security Engineer @ Maze3 Studios | $12k Scholarships | AP Dual Honors (CS/Business)  
+- **Projects**: Creator of [*Shatterpoint AI*](https://github.com/GavinTheArchitect/shatterpoint-ai), *Event_Zero*, *Eclipse-Shield*  
 - **Passions**: Martial arts, DJing, and building unbreakable systems.
 
 ---
 
-*Strike from the shadows. Secure the future.*  
+*Strike from the shadows. Secure the future.*  
 *ShadowStrikeOS* embodies disciplined innovation in cybersecurity. Stay tuned for updates as we continue to push the boundaries of secure systems. 🚀
-
----
