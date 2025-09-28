@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>ShadowStrikeOS</h1>
   <strong>Hardened, AI-Driven Cybersecurity Operating System for Elite Defenders</strong>
