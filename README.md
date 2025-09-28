@@ -5,14 +5,6 @@
 
 [![Status: Private](https://img.shields.io/badge/Status-Private-red.svg)](https://github.com/GavinTheArchitect/ShadowStrikeOS)
 
----
-
-<div align="center">
-  <img src="./ShadowStrike.jpeg" alt="ShadowStrike Intelligence Banner"/>
-</div>
-
----
-
 <div align="center">
   <img src="./SSLogo.jpg" alt="ShadowStrike Intelligence Logo" width="500"/>
 </div>
@@ -22,6 +14,12 @@
 *ShadowStrikeOS* is a custom-built, security-first Linux distribution engineered for red teams, blue teams, threat hunters, and security professionals tackling advanced persistent threats (APTs) and zero-day exploits. Crafted by [GavinTheArchitect](https://github.com/GavinTheArchitect), a GIAC-certified National Cyber Scholar and NSA Codebreaker Challenge top finisher, this OS fuses AI-driven analytics, system hardening, and offensive security tools to deliver unmatched resilience and operational precision.
 
 To protect its strategic innovations and maintain a competitive edge, *ShadowStrikeOS* is a **private repository**. Below, we outline its capabilities and provide demo previews to showcase its potential in controlled, ethical environments.
+
+---
+
+<div align="center">
+  <img src="./ShadowStrike.jpeg" alt="ShadowStrike Intelligence Banner"/>
+</div>
 
 ---
 
