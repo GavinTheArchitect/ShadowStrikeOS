@@ -1,6 +1,7 @@
-# ShadowStrikeOS 🛡️
-
-**Hardened, AI-Driven Cybersecurity Operating System for Elite Defenders**
+<div align="center">
+  <h1>ShadowStrikeOS 🛡️</h1>
+  <strong>Hardened, AI-Driven Cybersecurity Operating System for Elite Defenders</strong>
+</div>
 
 [![Status: Private](https://img.shields.io/badge/Status-Private-red.svg)](https://github.com/GavinTheArchitect/ShadowStrikeOS)
 
