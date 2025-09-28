@@ -25,18 +25,6 @@ To protect its strategic innovations and maintain a competitive edge, *ShadowStr
 
 ---
 
-## 🎥 Demo Previews
-
-While the full codebase remains private, curated demo videos showcase *ShadowStrikeOS* in action within ethical, controlled environments:
-
-- **Demo**  
-  See *ShadowStrikeOS* 
-  [🔗 View Demo (Placeholder Link)](https://example.com/shadowstrike-demo1)
-
-*Note*: This is a single video of the entire project. For more in-depth detail of the project, you need to be an authorized partner.
-
----
-
 ## 🛠️ Technical Highlights
 
 While the source code remains confidential, here’s a high-level overview of *ShadowStrikeOS*’s architecture:
