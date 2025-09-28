@@ -5,6 +5,8 @@
 
 [![Status: Private](https://img.shields.io/badge/Status-Private-red.svg)](https://github.com/GavinTheArchitect/ShadowStrikeOS)
 
+---
+
 <div align="center">
   <img src="./ShadowStrike.jpeg" alt="ShadowStrike Intelligence Banner"/>
 </div>
