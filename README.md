@@ -3,13 +3,12 @@
   <strong>Hardened, AI-Driven Cybersecurity Operating System for Elite Defenders</strong>
 </div>
 
-[![Status: Private](https://img.shields.io/badge/Status-Private-red.svg)](https://github.com/GavinTheArchitect/ShadowStrikeOS)
-
 <div align="center">
   <img src="./SSLogo.jpg" alt="ShadowStrike Intelligence Logo" width="500"/>
 </div>
 
 ---
+[![Status: Private](https://img.shields.io/badge/Status-Private-red.svg)](https://github.com/GavinTheArchitect/ShadowStrikeOS)
 
 *ShadowStrikeOS* is a custom-built, security-first Linux distribution engineered for red teams, blue teams, threat hunters, and security professionals tackling advanced persistent threats (APTs) and zero-day exploits. Crafted by [GavinTheArchitect](https://github.com/GavinTheArchitect), a GIAC-certified National Cyber Scholar and NSA Codebreaker Challenge top finisher, this OS fuses AI-driven analytics, system hardening, and offensive security tools to deliver unmatched resilience and operational precision.
 
