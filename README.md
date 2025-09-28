@@ -3,6 +3,8 @@
   <strong>Hardened, AI-Driven Cybersecurity Operating System for Elite Defenders</strong>
 </div>
 
+---
+
 <div align="center">
   <img src="./SSLogo.jpg" alt="ShadowStrike Intelligence Logo" width="500"/>
 </div>
