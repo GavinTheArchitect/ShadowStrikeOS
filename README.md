@@ -15,7 +15,7 @@ To protect its strategic innovations and maintain a competitive edge, *ShadowStr
 
 ## 🌟 Why ShadowStrikeOS?
 
-*ShadowStrikeOS* is more than a Linux distro—it's a fortified platform for securing and stress-testing critical systems. Built on the principle of **proactive defense through offensive insight**, it combines industry-standard tools with AI-accelerated workflows to outmaneuver adversaries. Designed for hardening enterprise environments, hunting threats, and conducting authorized penetration testing, *ShadowStrikeOS* is a game-changer for cybersecurity professionals.
+*ShadowStrikeOS* is more than a Linux distro: it's a fortified platform for securing and stress-testing critical systems. Built on the principle of **proactive defense through offensive insight**, it combines industry-standard tools with AI-accelerated workflows to outmaneuver adversaries. Designed for hardening enterprise environments, hunting threats, and conducting authorized penetration testing, *ShadowStrikeOS* is a game-changer for cybersecurity professionals.
 
 ### Key Features
 - **AI Force-Multiplication**: Machine learning for anomaly detection, vulnerability prioritization, and automated mitigation, slashing response times by up to 60%.
